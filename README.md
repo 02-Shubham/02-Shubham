@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web-developer
 -------------
 
-I am a Btech (CSE) student ,Trying to learn good coding skills and want to bulid project that can solve problems
+I am a Btech (CSE) student ,Trying to learn good coding skills and want to bulid project that can solve problems,know more about me :- shubhamsahudev.vercel.app
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shubhamsahu60582@gmail.com](mailto:shubhamsahu60582@gmail.com)
