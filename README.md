@@ -90,7 +90,8 @@ I'm passionate about building AI-powered applications, scalable web platforms, a
 
 </div>
 <div>
-  ### AI & Specialized Tools
+  ###
+  <h2>AI & Specialized Tools</h2>
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
