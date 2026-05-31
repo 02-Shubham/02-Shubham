@@ -89,6 +89,18 @@ I'm passionate about building AI-powered applications, scalable web platforms, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 
 </div>
+<div>
+  ### AI & Specialized Tools
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![IPG_CarMaker](https://img.shields.io/badge/IPG_CarMaker-red?style=for-the-badge)
+
+</div>
 
 
 ## 🎯 Current Focus
